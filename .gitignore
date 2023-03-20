@@ -3,6 +3,7 @@
 
 # Ignore pipenv generated files
 Pipfile.lock
+.Pipfile.lock
 
 # Ignore local python build artifacts
 __pycache__/

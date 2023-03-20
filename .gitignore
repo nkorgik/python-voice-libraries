@@ -1,0 +1,21 @@
+# Ignore pipenv virtual environment
+/.venv
+
+# Ignore pipenv generated files
+Pipfile.lock
+
+# Ignore local python build artifacts
+__pycache__/
+*.pyc
+
+# Ignore macOS temporary files
+.DS_Store
+
+# Ignore PyCharm files
+.idea/
+
+# Ignore logs
+logs/
+
+# Ignore .env file (contains sensitive info)
+.env
